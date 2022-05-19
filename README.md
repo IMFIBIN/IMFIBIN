@@ -1,4 +1,4 @@
-# Hello, friends :raising_hand:
+# :raising_hand: Hello, friends
 #### I specialize in backend development.
 #### Owned by: Python
 # :point_right: About me
