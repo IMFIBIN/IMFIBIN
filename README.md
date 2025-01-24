@@ -2,7 +2,7 @@
 #### I specialize in backend development.
 #### Owned by: Python
 # :point_right: About me
-#### My name is Danila, I am 20 years old.  I've been programming for about a year now, trying out different technologies. 
+#### My name is Danila, I am 23 years old.  I've been programming for about a year now, trying out different technologies. 
 
 #### :microscope: I have experience in creating websites and online stores.
 
